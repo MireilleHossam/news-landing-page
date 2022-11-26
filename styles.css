@@ -83,12 +83,12 @@ table {
 li{
     /* border: 3px solid rgb(11, 11, 11); */
     /* padding: 10px; */
-	background-color: aquamarine;
+	
 	padding: 20px;
 }
 li:hover{
 	color:hsl(5, 85%, 63%);
-	background-color: blue;
+	
 }
 .nav-logo{
 	/* border: 3px solid yellowgreen; */
@@ -112,9 +112,6 @@ li:hover{
 
 .dektop-image{
 	max-width: 100%;
-	
-
-
 }
 
 .main-left-bottom{
@@ -130,7 +127,8 @@ li:hover{
 	/* border: 3px solid rgb(255, 0, 115); */
 	justify-content: space-between;
 	padding-left: 10px;
-	flex: 2;
+	padding-top: 10px;
+	flex: 1;
 	
 }
 .main-left-bottom-left{
@@ -139,7 +137,7 @@ li:hover{
 	
 	color:  hsl(240, 100%, 5%); 
 	font-weight: 800;
-	font-size: 50px;
+	font-size: 80px;
 	
 
 }
